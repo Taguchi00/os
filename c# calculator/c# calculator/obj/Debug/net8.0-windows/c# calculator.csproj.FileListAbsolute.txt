@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\c# calculator\c# calculator\obj\Debug\net8.0-windows\c__calculator.Cal.resources
+C:\Users\PC\source\repos\c# calculator\c# calculator\obj\Debug\net8.0-windows\c# calculator.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\c# calculator\c# calculator\obj\Debug\net8.0-windows\c# calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\c# calculator\c# calculator\obj\Debug\net8.0-windows\c# calculator.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\c# calculator\c# calculator\obj\Debug\net8.0-windows\c# calculator.AssemblyInfo.cs
+C:\Users\PC\source\repos\c# calculator\c# calculator\obj\Debug\net8.0-windows\c# calculator.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\c# calculator\c# calculator\bin\Debug\net8.0-windows\c# calculator.exe
+C:\Users\PC\source\repos\c# calculator\c# calculator\bin\Debug\net8.0-windows\c# calculator.deps.json
+C:\Users\PC\source\repos\c# calculator\c# calculator\bin\Debug\net8.0-windows\c# calculator.runtimeconfig.json
+C:\Users\PC\source\repos\c# calculator\c# calculator\bin\Debug\net8.0-windows\c# calculator.dll
+C:\Users\PC\source\repos\c# calculator\c# calculator\bin\Debug\net8.0-windows\c# calculator.pdb
+C:\Users\PC\source\repos\c# calculator\c# calculator\obj\Debug\net8.0-windows\c# calculator.dll
+C:\Users\PC\source\repos\c# calculator\c# calculator\obj\Debug\net8.0-windows\refint\c# calculator.dll
+C:\Users\PC\source\repos\c# calculator\c# calculator\obj\Debug\net8.0-windows\c# calculator.pdb
+C:\Users\PC\source\repos\c# calculator\c# calculator\obj\Debug\net8.0-windows\c# calculator.genruntimeconfig.cache
+C:\Users\PC\source\repos\c# calculator\c# calculator\obj\Debug\net8.0-windows\ref\c# calculator.dll
